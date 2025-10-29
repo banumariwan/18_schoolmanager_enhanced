@@ -12,10 +12,14 @@ Features
 
 📱 Responsive design
 
+
+
+
 Quick Start
 bash
 # Clone and setup
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/banumariwan/18_schoolmanager_enhanced.git
+
 cd student-management-system
 
 # Install dependencies
@@ -45,4 +49,10 @@ SQLite
 HTML/CSS
 
 Django Authentication
+
+## Admin Panel
+Create a superuser:
+```bash
+python manage.py createsuperuser
+
 
